@@ -1,0 +1,24 @@
+{
+  "name": "shift_register.c",
+  "version": "0.0.0",
+  "description": "shift_register class for working with 74HC595",
+  "main.c": "lib/main.c",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wraithan/shift_register.c.git"
+  },
+  "homepage": "https://github.com/wraithan/shift_register.c",
+  "keywords": [
+    "dotc",
+    "c"
+    "c++",
+    "shiftregister",
+    "74HC595"
+  ],
+  "author": {
+    "name": "Wraithan",
+    "email": "xwraithanx@gmail.com",
+    "url": "http://wraithan.net"
+  },
+  "license": "MIT"
+}
