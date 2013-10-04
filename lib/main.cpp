@@ -17,7 +17,6 @@ class ShiftRegister {
       pinMode(data, OUTPUT);
     }
     void writePins(int pins[]) {
-      pins = one;
       for (int i = 7; i >= 0; --i) {
         digitalWrite(data, pins[i]);
         digitalWrite(SH, HIGH);

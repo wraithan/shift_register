@@ -1,6 +1,6 @@
 {
   "name": "shift_register.c",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "shift_register class for working with 74HC595",
   "main.c": "lib/main.cpp",
   "repository": {
