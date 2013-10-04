@@ -10,7 +10,7 @@
   "homepage": "https://github.com/wraithan/shift_register.c",
   "keywords": [
     "dotc",
-    "c"
+    "c",
     "c++",
     "shiftregister",
     "74HC595"
@@ -20,5 +20,8 @@
     "email": "xwraithanx@gmail.com",
     "url": "http://wraithan.net"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "dotc": "~0.3.2"
+  }
 }
