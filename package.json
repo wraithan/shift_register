@@ -1,13 +1,13 @@
 {
   "name": "shift_register.cpp",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "shift_register class for working with 74HC595",
   "main.c": "lib/main.cpp",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wraithan/shift_register.cpp.git"
+    "url": "git://github.com/wraithan/shift_register.git"
   },
-  "homepage": "https://github.com/wraithan/shift_register.cpp",
+  "homepage": "https://github.com/wraithan/shift_register",
   "keywords": [
     "dotc",
     "c",
